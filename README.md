@@ -5,7 +5,10 @@ Kedves Érdeklődő!
 
 Sokat nyafognak a diákjaim, hogy koordináta-geometriából újabb és újabb háromszögeket számoljunk végig. 
 Megpróbáltam megírni ezt egy egyszerű kis alkalmazásban.
-Jelenleg még sok hibája van, de ezt-azt már számol.
+Jelenleg még több hibája is előfordulhat, de sok mindent már számol.
+Telepítéshez le kell tölteni a következő fájlokat:
+- Haromszogtan.exe 
+- minta.jpg 
 
 Kérésem: ha valakinek van kedve, akkor számolja (vagy számoltassa) át az egyenleteket.
 Ha hiba van, azonnal jelezze (előfordulhat!).
